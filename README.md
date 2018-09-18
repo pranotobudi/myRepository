@@ -7,9 +7,9 @@ Happy morning, sunny day!
 
 Bud here, 
 
-I start to document my programming journey...
+I start documenting my programming journey...
 
-I've worked on Embedded System projects for 4 years in the past: DVD player, TV, and microwave oven using C and C++ language.
+I've worked on Embedded System projects for 4 years in the past: DVD player, Microwave Oven, and TV using C and C++ language.
 
 Then I moved into web development projects for another 4 years using wordpress and shopify with some online marketing skills (fb ads, google adwords, and email marketing)
 
