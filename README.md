@@ -7,10 +7,14 @@ Happy morning, sunny day!
 
 Bud here, 
 
-I've worked on Embedded System projects in the past: DVD player, TV, and microwave oven using C and C++ language.
+I start to document my programming journey...
 
-Then I moved into web development projects using wordpress and shopify with some online marketing skills (fb ads, google adwords, and email marketing)
+I've worked on Embedded System projects for 4 years in the past: DVD player, TV, and microwave oven using C and C++ language.
 
-and now is my journey into back-end developer using python, ruby on rails, docker, etc
+Then I moved into web development projects for another 4 years using wordpress and shopify with some online marketing skills (fb ads, google adwords, and email marketing)
 
-and the next target is the front end developer
+Now (the past 5 months) is my journey into back-end developer using python, ruby on rails, docker, etc, and will keep doing my best to dive into it!
+
+and the next target is the front end developer!
+
+
